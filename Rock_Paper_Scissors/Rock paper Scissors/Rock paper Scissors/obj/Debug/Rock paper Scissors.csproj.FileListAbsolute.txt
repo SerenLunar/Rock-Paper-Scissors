@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\C#\Rock_Paper_Scissors\Rock paper Scissors\Rock paper Scissors\bin\Debug\Rock paper Scissors.exe.config
+C:\Users\user\OneDrive\C#\Rock_Paper_Scissors\Rock paper Scissors\Rock paper Scissors\bin\Debug\Rock paper Scissors.exe
+C:\Users\user\OneDrive\C#\Rock_Paper_Scissors\Rock paper Scissors\Rock paper Scissors\bin\Debug\Rock paper Scissors.pdb
+C:\Users\user\OneDrive\C#\Rock_Paper_Scissors\Rock paper Scissors\Rock paper Scissors\obj\Debug\Rock paper Scissors.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\C#\Rock_Paper_Scissors\Rock paper Scissors\Rock paper Scissors\obj\Debug\Rock_paper_Scissors.Form1.resources
+C:\Users\user\OneDrive\C#\Rock_Paper_Scissors\Rock paper Scissors\Rock paper Scissors\obj\Debug\Rock_paper_Scissors.Properties.Resources.resources
+C:\Users\user\OneDrive\C#\Rock_Paper_Scissors\Rock paper Scissors\Rock paper Scissors\obj\Debug\Rock paper Scissors.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\C#\Rock_Paper_Scissors\Rock paper Scissors\Rock paper Scissors\obj\Debug\Rock paper Scissors.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\C#\Rock_Paper_Scissors\Rock paper Scissors\Rock paper Scissors\obj\Debug\Rock paper Scissors.exe
+C:\Users\user\OneDrive\C#\Rock_Paper_Scissors\Rock paper Scissors\Rock paper Scissors\obj\Debug\Rock paper Scissors.pdb
